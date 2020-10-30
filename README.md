@@ -4,7 +4,7 @@
 - 📚 I am currently pursuing a Bachelor's Degree in Information Systems (2nd semester), at PUCPR (Paraná, Brazil)
 - ⚡ Fun fact: 
 - 💡 My biggest dream is to own a tech company where I can bring positive social impacts for minorities in Brazil!
-- 📫 Want to contact me? Reach me at: vinieducosta@outlook.com | [Linkedin](https://www.linkedin.com/in/vinicius-eduardo-taborda-costa-0a94261a7/)
+- 📫 Want to contact me? Reach me at: vinicius.taborda.costa@gmail.com | [Linkedin](https://www.linkedin.com/in/vinicius-eduardo-taborda-costa-0a94261a7/)
 
 <code><br></code>
 ## Technologies 🛠
