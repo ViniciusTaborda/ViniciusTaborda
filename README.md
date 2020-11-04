@@ -3,7 +3,10 @@
 
 - 📚 I am currently pursuing a Bachelor's Degree in Information Systems (2nd semester), at PUCPR (Paraná, Brazil)
 - 💡 My biggest dream is to become a back-end developer outside of my country.
-- 📫 Want to contact me? Reach me at: vinicius.taborda.costa@gmail.com | [Linkedin](https://www.linkedin.com/in/vinicius-eduardo-taborda-costa-0a94261a7/)
+- 📫 Want to contact me? Reach me at: vinicius.taborda.costa@gmail.com |
+<code> 
+ <a href="https://www.linkedin.com/in/vinicius-eduardo-taborda-costa-0a94261a7/">link text</a>
+ </code>
 
 <code><br></code>
 ## Technologies 🛠
