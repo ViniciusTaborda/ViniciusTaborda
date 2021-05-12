@@ -1,6 +1,6 @@
 # Hello, I'm Vinicius! Welcome to my github! 
 
-- 📚 I am currently pursuing a Bachelor's Degree in Information Systems (2nd semester), at PUCPR (Paraná, Brazil)
+- 📚 I am currently pursuing a Bachelor's Degree in Information Systems (3rd semester), at PUCPR (Paraná, Brazil)
 - 💡 My biggest dream is to become a back-end developer outside of my country.
 - 📫 Want to contact me? Reach me at: vinicius.taborda.costa@gmail.com 
 
